@@ -1,2 +1,2 @@
 # learningdevops
-learning  git frrom github
+lerning  git frrom github
