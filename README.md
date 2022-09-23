@@ -1,2 +1,3 @@
-# learningdevops
-learning  git frrom github
+devops class
+learning git from github
+git commands
