@@ -1,0 +1,14 @@
+#!/usr/bin/sh
+MARKS =65
+if [$MARKS -ge 90]
+then
+	echo "Excellent"
+elif [$MARKS -ge 60]
+then 
+	echo "good"
+elif [$MARKS -ge 50]
+then
+	echo "just satisfactory"
+else
+	echo "Not ok,FAIL"
+fi
