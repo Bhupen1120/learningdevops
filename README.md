@@ -1,2 +1,1 @@
-# learningdevops
-learning  git frrom github
+# devops-automation
